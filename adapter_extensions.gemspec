@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = %q{adapter_extensions}
-  s.version = "0.4.0.1"
+  s.version = "0.5.1"
 
   s.specification_version = 2 if s.respond_to? :specification_version=
 

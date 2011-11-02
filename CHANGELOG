@@ -24,3 +24,6 @@
 
 0.5 - 
 * Updated dependencies for gem to current versions of ActiveRecord, ActiveSupport and Rake. May not be compatible with Rails versions less than 2.x.
+
+0.5.1 - November 2, 2011
+* Don't print "Using AdapterExtensions" when required
